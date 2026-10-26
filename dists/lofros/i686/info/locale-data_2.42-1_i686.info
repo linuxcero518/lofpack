@@ -1,0 +1,10 @@
+Nombre: locale-data
+versión: 2.42
+Revisión: 1
+Estado: No instalado
+dependencias: glibc_2.42-1_i686
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnu.org/software/libc/
+Tamaño: 672.6 KB
+Espacio en disco: 2.9 MB
+Descripción: Locales compilados (locale-archive) para C.UTF-8 y es_ES.UTF-8
