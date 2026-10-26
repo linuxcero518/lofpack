@@ -2,7 +2,7 @@ Nombre: libgpg-error
 versión: 1.61
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnupg.org/related_software/libgpg-error/
 Tamaño: 388.3 KB

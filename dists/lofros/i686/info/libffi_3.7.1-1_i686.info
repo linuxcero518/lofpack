@@ -2,7 +2,7 @@ Nombre: libffi
 versión: 3.7.1
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://sourceware.org/libffi/
 Tamaño: 69.8 KB

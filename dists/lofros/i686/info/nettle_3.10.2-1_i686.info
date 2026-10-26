@@ -2,7 +2,7 @@ Nombre: nettle
 versión: 3.10.2
 Revisión: 1
 Estado: No instalado
-dependencias: glibc gmp
+dependencias: glibc_2.42-1_i686 gmp_6.3.0-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Tamaño: 9.6 MB

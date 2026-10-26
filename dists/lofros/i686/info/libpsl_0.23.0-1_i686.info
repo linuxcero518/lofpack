@@ -2,7 +2,7 @@ Nombre: libpsl
 versión: 0.23.0
 Revisión: 1
 Estado: No instalado
-dependencias: glibc libidn2
+dependencias: glibc_2.42-1_i686 libidn2_2.3.8-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://rockdaboot.github.io/libpsl/
 Tamaño: 29.3 KB

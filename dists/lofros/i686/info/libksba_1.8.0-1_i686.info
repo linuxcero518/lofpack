@@ -2,7 +2,7 @@ Nombre: libksba
 versión: 1.8.0
 Revisión: 1
 Estado: No instalado
-dependencias: glibc libgpg-error
+dependencias: glibc_2.42-1_i686 libgpg-error_1.61-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnupg.org/related_software/libksba/
 Tamaño: 169.0 KB

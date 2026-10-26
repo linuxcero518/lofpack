@@ -2,7 +2,7 @@ Nombre: ca-certificates
 versión: 20250419
 Revisión: 1
 Estado: No instalado
-dependencias: glibc openssl
+dependencias: glibc_2.42-1_i686 openssl_3.5.6-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://packages.debian.org/ca-certificates
 Tamaño: 267.5 KB

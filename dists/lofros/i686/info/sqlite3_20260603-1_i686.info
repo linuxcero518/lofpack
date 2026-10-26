@@ -2,7 +2,7 @@ Nombre: sqlite3
 versión: 20260603
 Revisión: 1
 Estado: No instalado
-dependencias: glibc ncurses readline
+dependencias: glibc_2.42-1_i686 ncurses_6.5-1_i686 readline_8.2-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.sqlite.org/
 Tamaño: 2.2 MB

@@ -2,7 +2,7 @@ Nombre: npth
 versión: 1.8
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnupg.org/related_software/npth/
 Tamaño: 15.0 KB

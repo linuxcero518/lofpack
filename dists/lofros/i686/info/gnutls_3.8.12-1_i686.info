@@ -2,7 +2,7 @@ Nombre: gnutls
 versión: 3.8.12
 Revisión: 1
 Estado: No instalado
-dependencias: glibc gmp nettle libtasn libidn2 libunistring p11-kit
+dependencias: glibc_2.42-1_i686 gmp_6.3.0-1_i686 nettle_3.10.2-1_i686 libtasn_4.21.0-1_i686 libidn2_2.3.8-1_i686 libunistring_1.3-1_i686 p11-kit_0.26.4-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnutls.org/
 Tamaño: 2.7 MB

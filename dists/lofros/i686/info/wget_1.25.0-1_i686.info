@@ -2,7 +2,7 @@ Nombre: wget
 versión: 1.25.0
 Revisión: 1
 Estado: No instalado
-dependencias: glibc openssl zlib libpsl libidn2
+dependencias: glibc_2.42-1_i686 openssl_3.5.6-1_i686 zlib_1.3.2-1_i686 libpsl_0.23.0-1_i686 libidn2_2.3.8-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnu.org/software/wget/
 Tamaño: 1.2 MB

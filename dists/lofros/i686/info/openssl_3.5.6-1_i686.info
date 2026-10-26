@@ -2,7 +2,7 @@ Nombre: openssl
 versión: 3.5.6
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.openssl.org/
 Tamaño: 9.9 MB

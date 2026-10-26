@@ -2,7 +2,7 @@ Nombre: sdl_mixer
 versión: 1.2.12
 Revisión: 1
 Estado: No instalado
-dependencias: glibc sdl
+dependencias: glibc_2.42-1_i686 sdl_1.2.15-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.libsdl.org/projects/SDL_mixer/
 Tamaño: 589.8 KB

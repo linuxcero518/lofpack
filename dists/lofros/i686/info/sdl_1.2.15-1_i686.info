@@ -2,7 +2,7 @@ Nombre: sdl
 versión: 1.2.15
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.libsdl.org/
 Tamaño: 2.5 MB

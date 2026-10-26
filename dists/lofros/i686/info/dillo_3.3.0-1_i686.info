@@ -2,7 +2,7 @@ Nombre: dillo
 versión: 3.3.0
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://dillo-browser.github.io/
 Tamaño: 791.0 KB

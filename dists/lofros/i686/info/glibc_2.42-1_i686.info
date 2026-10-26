@@ -2,7 +2,7 @@ Nombre: glibc
 versión: 2.42
 Revisión: 1
 Estado: No instalado
-dependencias: linux
+dependencias: 
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnu.org/software/libc/
 Tamaño: 14.7 MB

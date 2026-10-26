@@ -2,7 +2,7 @@ Nombre: gpg
 versión: 2.5.20
 Revisión: 1
 Estado: No instalado
-dependencias: glibc ncurses readline libgpg-error libgcrypt libassuan libksba npth
+dependencias: glibc_2.42-1_i686 ncurses_6.5-1_i686 readline_8.2-1_i686 libgpg-error_1.61-1_i686 libgcrypt_1.12.2-1_i686 libassuan_3.0.2-1_i686 libksba_1.8.0-1_i686 npth_1.8-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.gnupg.org/
 Tamaño: 5.2 MB

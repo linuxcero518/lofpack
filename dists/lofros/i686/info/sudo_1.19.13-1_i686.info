@@ -2,7 +2,7 @@ Nombre: sudo
 versión: 1.19.13
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.sudo.ws/
 Tamaño: 2.6 MB

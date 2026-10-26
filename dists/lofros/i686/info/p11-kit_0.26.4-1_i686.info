@@ -2,7 +2,7 @@ Nombre: p11-kit
 versión: 0.26.4
 Revisión: 1
 Estado: No instalado
-dependencias: glibc libffi libtasn
+dependencias: glibc_2.42-1_i686 libffi_3.7.1-1_i686 libtasn_4.21.0-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 Tamaño: 4.0 MB

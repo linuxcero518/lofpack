@@ -2,7 +2,7 @@ Nombre: luanti
 versión: 5.17.0
 Revisión: 1
 Estado: No instalado
-dependencias: glibc sdl sdl_image sdl_mixer sqlite3
+dependencias: glibc_2.42-1_i686 sdl_1.2.15-1_i686 sdl_image_1.2.12-1_i686 sdl_mixer_1.2.12-1_i686 sqlite3_20260603-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://www.luanti.org/
 Tamaño: 12.7 MB

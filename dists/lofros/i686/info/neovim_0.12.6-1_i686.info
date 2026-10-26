@@ -2,7 +2,7 @@ Nombre: neovim
 versión: 0.12.6
 Revisión: 1
 Estado: No instalado
-dependencias: glibc ncurses libffi libunistring
+dependencias: glibc_2.42-1_i686 ncurses_6.5-1_i686 libffi_3.7.1-1_i686 libunistring_1.3-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://neovim.io/
 Tamaño: 9.2 MB

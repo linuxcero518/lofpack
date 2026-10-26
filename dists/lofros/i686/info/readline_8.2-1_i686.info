@@ -2,7 +2,7 @@ Nombre: readline
 versión: 8.2
 Revisión: 1
 Estado: No instalado
-dependencias: glibc ncurses
+dependencias: glibc_2.42-1_i686 ncurses_6.5-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 Tamaño: 560.3 KB

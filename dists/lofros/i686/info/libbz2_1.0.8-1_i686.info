@@ -2,7 +2,7 @@ Nombre: libbz2
 versión: 1.0.8
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://sourceware.org/bzip2/
 Tamaño: 65.7 KB

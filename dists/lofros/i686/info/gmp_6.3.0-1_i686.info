@@ -2,7 +2,7 @@ Nombre: gmp
 versión: 6.3.0
 Revisión: 1
 Estado: No instalado
-dependencias: glibc
+dependencias: glibc_2.42-1_i686
 Mantenedor: linuxcero518@gmail.com
 Homepage: https://gmplib.org/
 Tamaño: 825.1 KB
