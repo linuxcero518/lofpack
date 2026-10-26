@@ -1,0 +1,10 @@
+Nombre: busybox
+versión: 1.37.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://busybox.net/
+Tamaño: 665.9 KB
+Espacio en disco: 1.1 MB
+Descripción: Colección de utilidades Unix en un solo binario, base del sistema de arranque

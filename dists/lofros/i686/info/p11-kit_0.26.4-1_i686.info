@@ -1,0 +1,10 @@
+Nombre: p11-kit
+versión: 0.26.4
+Revisión: 1
+Estado: No instalado
+dependencias: glibc libffi libtasn
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
+Tamaño: 4.0 MB
+Espacio en disco: 14.6 MB
+Descripción: Biblioteca de gestión de módulos PKCS#11, usada por gnutls y ca-certificates

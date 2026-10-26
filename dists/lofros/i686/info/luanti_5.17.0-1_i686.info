@@ -1,0 +1,10 @@
+Nombre: luanti
+versión: 5.17.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc sdl sdl_image sdl_mixer sqlite3
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.luanti.org/
+Tamaño: 12.7 MB
+Espacio en disco: 29.8 MB
+Descripción: Juego de construcción y exploración en 3D (antes Minetest)

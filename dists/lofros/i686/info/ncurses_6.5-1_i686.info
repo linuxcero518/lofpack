@@ -1,0 +1,10 @@
+Nombre: ncurses
+versión: 6.5
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://invisible-island.net/ncurses/
+Tamaño: 3.8 MB
+Espacio en disco: 10.2 MB
+Descripción: Biblioteca para interfaces de terminal, base de nano, htop, neovim y muchos otros

@@ -1,0 +1,10 @@
+Nombre: ca-certificates
+versión: 20250419
+Revisión: 1
+Estado: No instalado
+dependencias: glibc openssl
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://packages.debian.org/ca-certificates
+Tamaño: 267.5 KB
+Espacio en disco: 450.7 KB
+Descripción: Certificados de autoridades de certificación de confianza, necesarios para TLS

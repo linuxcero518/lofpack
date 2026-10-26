@@ -1,0 +1,10 @@
+Nombre: libgpg-error
+versión: 1.61
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Tamaño: 388.3 KB
+Espacio en disco: 1.1 MB
+Descripción: Biblioteca de errores comunes de GnuPG, base de libgcrypt y gpg

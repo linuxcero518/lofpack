@@ -1,0 +1,10 @@
+Nombre: wget
+versión: 1.25.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc openssl zlib libpsl libidn2
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnu.org/software/wget/
+Tamaño: 1.2 MB
+Espacio en disco: 3.5 MB
+Descripción: Herramienta de descarga de archivos desde la web, usada por lofpkg

@@ -1,0 +1,10 @@
+Nombre: sdl
+versión: 1.2.15
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.libsdl.org/
+Tamaño: 2.5 MB
+Espacio en disco: 6.1 MB
+Descripción: Biblioteca de capa de abstracción multimedia, base de muchos juegos

@@ -1,0 +1,10 @@
+Nombre: libtasn
+versión: 4.21.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnu.org/software/libtasn1/
+Tamaño: 144.8 KB
+Espacio en disco: 442.9 KB
+Descripción: Biblioteca de codificación ASN.1, usada por gnutls y p11-kit

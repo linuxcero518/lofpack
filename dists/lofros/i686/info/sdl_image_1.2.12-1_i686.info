@@ -1,0 +1,10 @@
+Nombre: sdl_image
+versión: 1.2.12
+Revisión: 1
+Estado: No instalado
+dependencias: glibc sdl
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.libsdl.org/projects/SDL_image/
+Tamaño: 240.4 KB
+Espacio en disco: 526.0 KB
+Descripción: Biblioteca de carga de imágenes para SDL

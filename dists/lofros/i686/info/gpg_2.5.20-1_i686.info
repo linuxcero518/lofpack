@@ -1,0 +1,10 @@
+Nombre: gpg
+versión: 2.5.20
+Revisión: 1
+Estado: No instalado
+dependencias: glibc ncurses readline libgpg-error libgcrypt libassuan libksba npth
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnupg.org/
+Tamaño: 5.2 MB
+Espacio en disco: 13.3 MB
+Descripción: Herramienta de cifrado y firma digital GNU Privacy Guard

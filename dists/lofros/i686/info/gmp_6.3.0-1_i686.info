@@ -1,0 +1,10 @@
+Nombre: gmp
+versión: 6.3.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://gmplib.org/
+Tamaño: 825.1 KB
+Espacio en disco: 2.2 MB
+Descripción: Biblioteca de aritmética de precisión arbitraria, necesaria para GCC y GPG

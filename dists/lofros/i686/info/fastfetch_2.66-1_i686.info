@@ -1,6 +1,10 @@
-Nombre: fastfetch_2.66-1_i686.lof
+Nombre: fastfetch
 versión: 2.66
-dependencias:
-Mantenedor: linuxcero518 linuxcero518@gmail.com
-Homepage: https://gihub.com/fastfetch-cli/fastfetch
-Tamaño: 6 MB
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Tamaño: 5.2 MB
+Espacio en disco: 13.2 MB
+Descripción: Herramienta de información del sistema, rápida y personalizable

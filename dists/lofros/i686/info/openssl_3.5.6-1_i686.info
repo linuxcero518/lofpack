@@ -1,0 +1,10 @@
+Nombre: openssl
+versión: 3.5.6
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.openssl.org/
+Tamaño: 9.9 MB
+Espacio en disco: 32.4 MB
+Descripción: Biblioteca de criptografía y TLS/SSL, usada por curl, wget y muchos otros

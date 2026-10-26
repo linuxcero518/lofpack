@@ -1,0 +1,10 @@
+Nombre: glibc
+versión: 2.42
+Revisión: 1
+Estado: No instalado
+dependencias: linux
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnu.org/software/libc/
+Tamaño: 14.7 MB
+Espacio en disco: 43.5 MB
+Descripción: Biblioteca estándar de C de GNU, base de casi todo el software del sistema

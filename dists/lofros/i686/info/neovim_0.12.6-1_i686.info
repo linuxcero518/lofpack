@@ -1,0 +1,10 @@
+Nombre: neovim
+versión: 0.12.6
+Revisión: 1
+Estado: No instalado
+dependencias: glibc ncurses libffi libunistring
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://neovim.io/
+Tamaño: 9.2 MB
+Espacio en disco: 30.8 MB
+Descripción: Editor de texto moderno, fork de Vim con soporte LSP

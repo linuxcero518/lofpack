@@ -1,0 +1,10 @@
+Nombre: libbz2
+versión: 1.0.8
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://sourceware.org/bzip2/
+Tamaño: 65.7 KB
+Espacio en disco: 153.1 KB
+Descripción: Biblioteca de compresión bzip2, usada por tar, dpkg y otros

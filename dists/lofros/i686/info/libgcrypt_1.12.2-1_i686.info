@@ -1,0 +1,10 @@
+Nombre: libgcrypt
+versión: 1.12.2
+Revisión: 1
+Estado: No instalado
+dependencias: glibc libgpg-error
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnupg.org/related_software/libgcrypt/
+Tamaño: 750.5 KB
+Espacio en disco: 1.8 MB
+Descripción: Biblioteca criptográfica de GnuPG, usada por gpg y otros

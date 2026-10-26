@@ -1,0 +1,10 @@
+Nombre: curl
+versión: 8.21.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc openssl zlib libpsl
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://curl.se/
+Tamaño: 1.1 MB
+Espacio en disco: 3.4 MB
+Descripción: Herramienta y biblioteca de transferencia de datos con soporte para múltiples protocolos

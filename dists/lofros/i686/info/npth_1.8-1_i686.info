@@ -1,0 +1,10 @@
+Nombre: npth
+versión: 1.8
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnupg.org/related_software/npth/
+Tamaño: 15.0 KB
+Espacio en disco: 48.0 KB
+Descripción: Biblioteca de hilos portables de GnuPG, usada por gpg

@@ -1,0 +1,10 @@
+Nombre: nettle
+versión: 3.10.2
+Revisión: 1
+Estado: No instalado
+dependencias: glibc gmp
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Tamaño: 9.6 MB
+Espacio en disco: 27.1 MB
+Descripción: Biblioteca criptográfica de bajo nivel, usada por gnutls y otros

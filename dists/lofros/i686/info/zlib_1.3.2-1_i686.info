@@ -1,0 +1,10 @@
+Nombre: zlib
+versión: 1.3.2
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://zlib.net/
+Tamaño: 154.9 KB
+Espacio en disco: 373.1 KB
+Descripción: Biblioteca de compresión DEFLATE, usada por casi todo el software que comprime datos

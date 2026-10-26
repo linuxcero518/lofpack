@@ -1,0 +1,10 @@
+Nombre: pcre2
+versión: 10.42
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.pcre.org/
+Tamaño: 1.1 MB
+Espacio en disco: 3.6 MB
+Descripción: Biblioteca de expresiones regulares compatibles con Perl, usada por grep y otros

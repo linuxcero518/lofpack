@@ -1,0 +1,10 @@
+Nombre: libassuan
+versión: 3.0.2
+Revisión: 1
+Estado: No instalado
+dependencias: glibc libgpg-error
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnupg.org/related_software/libassuan/
+Tamaño: 96.1 KB
+Espacio en disco: 286.3 KB
+Descripción: Biblioteca de comunicación IPC de GnuPG, usada por gpg

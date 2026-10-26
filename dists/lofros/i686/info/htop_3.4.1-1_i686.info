@@ -1,6 +1,10 @@
-Nombre: htop_3.4.1-1_i686.lof
+Nombre: htop
 versión: 3.4.1
-dependencias: ncurses
-Mantenedor: linuxcero518 linuxcero518@gmail.com
-Homepage: https://htop.dev
-Tamaño: 1 MB
+Revisión: 1
+Estado: No instalado
+dependencias: glibc ncurses
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://htop.dev/
+Tamaño: 162.1 KB
+Espacio en disco: 364.3 KB
+Descripción: Monitor interactivo de procesos para terminal

@@ -1,0 +1,10 @@
+Nombre: expat
+versión: 2.8.2
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://libexpat.github.io/
+Tamaño: 154.3 KB
+Espacio en disco: 431.7 KB
+Descripción: Biblioteca de parseo de XML, usada por p11-kit, dbus y otros

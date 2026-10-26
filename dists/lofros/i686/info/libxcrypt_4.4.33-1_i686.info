@@ -1,0 +1,10 @@
+Nombre: libxcrypt
+versión: 4.4.33
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://github.com/besser82/libxcrypt
+Tamaño: 218.8 KB
+Espacio en disco: 546.3 KB
+Descripción: Biblioteca de hash de contraseñas, usada por shadow y PAM

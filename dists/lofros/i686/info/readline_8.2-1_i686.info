@@ -1,0 +1,10 @@
+Nombre: readline
+versión: 8.2
+Revisión: 1
+Estado: No instalado
+dependencias: glibc ncurses
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Tamaño: 560.3 KB
+Espacio en disco: 1.5 MB
+Descripción: Biblioteca de edición de línea de comandos, usada por bash, gpg y otros

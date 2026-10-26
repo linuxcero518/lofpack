@@ -1,0 +1,10 @@
+Nombre: sdl_mixer
+versión: 1.2.12
+Revisión: 1
+Estado: No instalado
+dependencias: glibc sdl
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.libsdl.org/projects/SDL_mixer/
+Tamaño: 589.8 KB
+Espacio en disco: 1.3 MB
+Descripción: Biblioteca de audio para SDL

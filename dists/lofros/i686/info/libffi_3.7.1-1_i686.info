@@ -1,0 +1,10 @@
+Nombre: libffi
+versión: 3.7.1
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://sourceware.org/libffi/
+Tamaño: 69.8 KB
+Espacio en disco: 207.5 KB
+Descripción: Biblioteca de interfaz de funciones foráneas, usada por p11-kit, glib y otros

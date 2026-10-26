@@ -1,0 +1,10 @@
+Nombre: libpsl
+versión: 0.23.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc libidn2
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://rockdaboot.github.io/libpsl/
+Tamaño: 29.3 KB
+Espacio en disco: 91.8 KB
+Descripción: Biblioteca de listas públicas de sufijos, usada por curl y wget

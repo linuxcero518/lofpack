@@ -1,0 +1,10 @@
+Nombre: libksba
+versión: 1.8.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc libgpg-error
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnupg.org/related_software/libksba/
+Tamaño: 169.0 KB
+Espacio en disco: 436.3 KB
+Descripción: Biblioteca de parseo de certificados X.509 y CMS, usada por gpg

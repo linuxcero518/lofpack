@@ -1,0 +1,10 @@
+Nombre: sudo
+versión: 1.19.13
+Revisión: 1
+Estado: No instalado
+dependencias: glibc
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.sudo.ws/
+Tamaño: 2.6 MB
+Espacio en disco: 7.8 MB
+Descripción: Herramienta para ejecutar comandos como superusuario

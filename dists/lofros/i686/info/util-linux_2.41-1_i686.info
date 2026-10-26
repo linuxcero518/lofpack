@@ -1,0 +1,10 @@
+Nombre: util-linux
+versión: 2.41
+Revisión: 1
+Estado: No instalado
+dependencias: glibc ncurses readline
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.kernel.org/pub/linux/utils/util-linux/
+Tamaño: 8.5 MB
+Espacio en disco: 23.2 MB
+Descripción: Utilidades del sistema Linux (mount, fdisk, lsblk, etc.)

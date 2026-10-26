@@ -1,0 +1,10 @@
+Nombre: nano
+versión: 8.7
+Revisión: 1
+Estado: No instalado
+dependencias: glibc ncurses
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.nano-editor.org/
+Tamaño: 1012.0 KB
+Espacio en disco: 2.6 MB
+Descripción: Editor de texto sencillo para terminal, reemplazo de vi en Lofros

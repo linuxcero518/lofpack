@@ -1,0 +1,10 @@
+Nombre: zmusic
+versión: 1.3.0
+Revisión: 1
+Estado: No instalado
+dependencias: glibc sdl_mixer
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://github.com/coelckers/ZMusic
+Tamaño: 7.7 MB
+Espacio en disco: 19.7 MB
+Descripción: Biblioteca de reproducción de música para ports de Doom

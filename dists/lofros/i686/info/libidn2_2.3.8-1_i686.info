@@ -1,0 +1,10 @@
+Nombre: libidn2
+versión: 2.3.8
+Revisión: 1
+Estado: No instalado
+dependencias: glibc libunistring
+Mantenedor: linuxcero518@gmail.com
+Homepage: https://www.gnu.org/software/libidn/
+Tamaño: 382.2 KB
+Espacio en disco: 1.0 MB
+Descripción: Biblioteca de internacionalización de nombres de dominio (IDN), usada por gnutls y curl
